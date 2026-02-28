@@ -16,40 +16,28 @@ Ceci est une presentation de mon profil
 
 
 
-### Content de vous voir ici  
-Je suis un étudiant qui a transformé sa passion pour le digital en carrière de developpement mobile. J'ai débuté le developpement avec des outils No-code  comme Flutterflow, Bubble et Wordpress ensuite je me suis tourné vers le code avec flutter avec lequel j'apprends et je developpe au fur et à mesure.
-Je me spécialise dans la conception d'interface utilisateur optimisé et l'integration de service. J'affectionne la conception d'interface et expérience de l'utilisateur efficace.  
+### À propos de moi
+- Je suis un étudiant qui a transformé sa passion pour le digital en carrière de developpement mobile. J'ai débuté le developpement avec des outils No-code  comme Flutterflow, Bubble et Wordpress
+- **Fast-learner** : Je suis passé du Low-code (**FlutterFlow**) au code pur (**Dart/Flutter**) pour une liberté technique totale.
+- Actuellement en train de perfectionner mes compétences en integration de services Baas, en **State Management** (Riverpod/Provider) et en architectures propres.  
   
 
 <br/>  
 
 
-## Rapidfire  
 
-
-### Actuellement j'apprends :   
-- L'integration des Baas avec flutter  
-  
-
-- La conception d'interface complexe  
-  
-
-<br/>  
-
-
-## Languages and Tools  
+## Langages and outils
 <div align="left">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>  
+- **Frontend :** Flutter, Dart, FlutterFlow
+- **Backend :** Firebase, Supabase
+- **Outils :** Git, GitHub, Figma, Méthodes Agiles
 
 <br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
 
 
 
