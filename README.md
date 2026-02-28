@@ -35,7 +35,9 @@ Ceci est une presentation de mon profil
 </div>  
 
 - **Frontend :** Flutter, Dart, FlutterFlow
+<br/>  
 - **Backend :** Firebase, Supabase
+<br/>  
 - **Outils :** Git, GitHub, Figma, Méthodes Agiles
 
 <br/>  
